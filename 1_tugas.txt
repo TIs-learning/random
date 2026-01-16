@@ -1,0 +1,67 @@
+________________________________________
+📝 DAFTAR SOAL LATIHAN PYTHON + LOGIKA
+________________________________________
+📍 Bagian 1: Dasar (Pemanasan)
+1️⃣ Buat program untuk mengecek apakah sebuah bilangan ganjil atau genap.
+2️⃣ Buat program yang meminta 3 angka, lalu cetak angka terbesar.
+3️⃣ Buat program menghitung luas lingkaran.
+4️⃣ Program konversi suhu dari Celcius ke Fahrenheit.
+5️⃣ Program menghitung faktorial dari sebuah angka.
+6️⃣ Program menentukan apakah sebuah angka adalah bilangan prima.
+7️⃣ Program mencetak deret Fibonacci sebanyak n bilangan.
+8️⃣ Program menghitung jumlah huruf vokal dalam sebuah kalimat.
+9️⃣ Program membalik kata yang diinput user.
+🔟 Program menentukan apakah sebuah kata adalah palindrom.
+________________________________________
+📍 Bagian 2: Pola & Perulangan
+1️⃣ Cetak segitiga bintang seperti berikut (misal n=5):
+*
+**
+***
+****
+*****
+2️⃣ Cetak pola angka:
+1
+12
+123
+1234
+12345
+3️⃣ Cetak deret angka kelipatan 3 dari 3 sampai 30.
+4️⃣ Cetak deret angka mundur dari 10 ke 1.
+5️⃣ Cetak pola segitiga terbalik:
+*****
+****
+***
+**
+*
+________________________________________
+📍 Bagian 3: List & String
+1️⃣ Cari angka terbesar dari sebuah list.
+2️⃣ Buat program untuk mencari rata-rata dari list angka.
+3️⃣ Program untuk mengurutkan list angka secara ascending (pakai sort() atau manual dengan bubble sort).
+4️⃣ Hitung jumlah kemunculan huruf tertentu dalam sebuah kalimat.
+5️⃣ Program cek apakah semua elemen dalam list adalah bilangan genap.
+________________________________________
+📍 Bagian 4: roblem Solving
+1️⃣ Buat program Tebak Angka → komputer memilih angka 1-10 secara acak, user coba tebak.
+2️⃣ Program Kalkulator Sederhana → bisa tambah, kurang, kali, bagi.
+3️⃣ Program To-do List Sederhana → input daftar kegiatan, tampilkan, lalu keluar.
+4️⃣ Program Kasir Sederhana → input nama barang dan harga, total belanja.
+5️⃣ Program Konversi Bilangan ke Huruf → contoh: input 123 → output ‘satu dua tiga’.
+6️⃣ Program menentukan jumlah huruf vokal dan konsonan dalam kalimat.
+7️⃣ Program Login Sederhana → user harus masukkan username & password yang sudah ditentukan.
+________________________________________
+📍 Bagian 5: Bonus Tantangan (Opsional)
+1️⃣ Program Bilangan Prima dalam Range → tampilkan semua bilangan prima antara 1-100.
+2️⃣ Buat Pola Angka Diamond → agak menantang.
+3️⃣ Sorting manual → buat program Bubble Sort tanpa bantuan fungsi bawaan.
+4️⃣ Program mencari angka terbanyak dalam list (mode statistik).
+5️⃣ Program Pencarian Binary Search (kalau sudah belajar sorting & list).
+________________________________________
+🗂️ Cara Mengerjakan
+•	Ambil satu soal → coba kerjakan sendiri
+•	Kalau sudah → boleh kirim ke sini → aku cek logikanya, kasih masukan, atau solusi lain
+•	Kalau bingung mulai dari mana → aku bantu pilihkan soal sesuai progres kamu
+
+
+

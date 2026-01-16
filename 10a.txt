@@ -1,0 +1,28 @@
+
+✅ Web Resmi Python
+1. Situs Resmi Python (Bahasa Inggris, paling lengkap):
+🔗 https://docs.python.org/3/
+
+Namun, resmi dari Python.org belum ada versi bahasa Indonesia-nya secara penuh. Biasanya hanya berupa terjemahan sukarela oleh komunitas.
+
+✅ Sumber Belajar Python dalam Bahasa Indonesia
+Berikut beberapa alternatif bagus berbahasa Indonesia:
+
+1️⃣ Python Indonesia (Resmi Komunitas):
+🔗 https://python.or.id/
+➡️ Ini portal resmi komunitas Python Indonesia → ada dokumentasi, tutorial dasar, dan link komunitas.
+
+2️⃣ Petanikode (Bahasa Indonesia, mudah dipahami):
+🔗 https://www.petanikode.com/python/
+➡️ Sangat cocok untuk pemula → jelas, bahasa ringan, langsung praktik.
+
+3️⃣ Programiz (Bahasa Inggris, tapi mudah, interaktif):
+🔗 https://www.programiz.com/python-programming
+➡️ Kalau nyaman dengan bahasa Inggris dasar, ini salah satu favorit banyak programmer pemula.
+
+4️⃣ W3Schools Python (Bahasa Inggris, tapi ringkas & praktis):
+🔗 https://www.w3schools.com/python/
+
+Kalau kamu mau belajar dengan bahasa Indonesia saja → Petanikode + Python.or.id sangat direkomendasikan.
+
+Kalau perlu aku buatin daftar link terstruktur atau modul belajar pribadi Python dalam bahasa Indonesia, beri tahu ya
