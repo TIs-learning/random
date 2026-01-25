@@ -1,2 +1,2 @@
 # random
-mungkin berisi kode sembarang / litkod / hacker rano / etc, apapun
+mungkin berisi kode sembarang / litkod / etc, apapun
